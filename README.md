@@ -9,6 +9,9 @@ I used the goodbooks-10k dataset, a cleaned collection of 10,000 popular books w
 ## Findings
 ### 1. Male authors dominate popular books.
 Of the 10,000 books in this dataset, male authors outnumber female authors with 4,584 male vs 3,403 female among books where gender could be determined.
+
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/e3b2372f-0a9b-4392-b45b-9e3e93c189cd" />
+
 ### 2. Male authors rate higher on average.
 Male authored books average 4.01 vs 3.98 for female authored books. In a dataset where most books cluster within a narrow band, this consistent gap across thousands of books is meaningful.
 ### 3. Authors using initials rate highest of all.
