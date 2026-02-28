@@ -14,8 +14,11 @@ Of the 10,000 books in this dataset, male authors outnumber female authors with 
 
 ### 2. Male authors rate higher on average.
 Male authored books average 4.01 vs 3.98 for female authored books. In a dataset where most books cluster within a narrow band, this consistent gap across thousands of books is meaningful.
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/d770ed7c-55b7-408b-84c4-03be2f766214" />
+
 ### 3. Authors using initials rate highest of all.
 498 authors use initials instead of first names and average 4.07, higher than both male and female authors. Using initials to obscure gender, most famously practiced by J.K. Rowling at her publisher's suggestion, appears to correlate with higher reader ratings.
+
 
 ## Limitations
 **Gender was inferred** from first names which is **imperfect and binary** as it doesn't capture non-binary authors or authors whose names are culturally unfamiliar to the library
