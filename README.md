@@ -19,6 +19,8 @@ Male authored books average 4.01 vs 3.98 for female authored books. In a dataset
 ### 3. Authors using initials rate highest of all.
 498 authors use initials instead of first names and average 4.07, higher than both male and female authors. Using initials to obscure gender, most famously practiced by J.K. Rowling at her publisher's suggestion, appears to correlate with higher reader ratings.
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9c132a50-a3aa-434f-992a-917016e8ab3e" />
+
 
 ## Limitations
 **Gender was inferred** from first names which is **imperfect and binary** as it doesn't capture non-binary authors or authors whose names are culturally unfamiliar to the library
